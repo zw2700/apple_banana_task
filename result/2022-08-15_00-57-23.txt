@@ -1,0 +1,6 @@
+answer,result,takeTime,position-X,position-Y,size-width,size-height,originPicture
+banana,False,8.46350908279419,34,48,325,239,./picture/banana/b5.jpg
+banana,False,5.332599639892578,617,37,650,478,./picture/banana/b5.jpg
+apple,True,5.418266773223877,1431,607,325,245,./picture/apple/a2.jpg
+apple,True,5.849401235580444,1172,168,300,281,./picture/apple/a1.jpg
+banana,False,6.269205093383789,342,265,650,478,./picture/banana/b5.jpg

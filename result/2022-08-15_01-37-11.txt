@@ -1,0 +1,4 @@
+answer,result,takeTime,position-X,position-Y,size-width,size-height,originPicture
+apple,True,7.676410913467407,52,151,240,240,./picture/apple/a3.jpg
+apple,True,5.378767013549805,752,133,650,490,./picture/apple/a2.jpg
+apple,True,5.015932083129883,1024,14,300,281,./picture/apple/a1.jpg
